@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working on projects with **Socket.io**
+- 🔭 I’m currently working on some exciting projects.
 
 - 🌱 I’m currently learning **Typescript**
 
