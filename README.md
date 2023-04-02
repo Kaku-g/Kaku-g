@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working on projects with **Socket.io**
+- 🔭 I’m currently working  with **Docker and Kubernetes**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 👯 I’m looking to collaborate on **React and Nodejs project**
 
-- 📝 I regularly write articles on [jatinrawat.hashnode.dev](jatinrawat.hashnode.dev)
+- 📝 Read my articles on [jatinrawat.hashnode.dev](jatinrawat.hashnode.dev)
 
 - 💬 Ask me about **React**
 
