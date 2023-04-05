@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React and Nodejs project**
 
-- 📝 Read my articles on [jatinrawat.me](jatinrawat.me)
+- 📝 Read my articles on my [Blog](https://jatinrawat.me/)
 
 - 💬 Ask me about **React**
 
